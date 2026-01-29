@@ -2,7 +2,7 @@
 ~~Hypertabs clone but different~~ Velocity clone but different
 
 Chrome in your browser
-https://playos.io/
+https://frogos.app
 ## Quick Deploy
 These instructions assume you have already cloned the repository and cd'd into it.
 ```bash
